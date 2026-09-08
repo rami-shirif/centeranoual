@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/centeranoual/app/layout.tsx"],"sourcesContent":["import './globals.css'\nimport type { Metadata } from 'next'\n\nexport const metadata: Metadata = {\n  title: 'Centre Dentaire ANOUAL | Kénitra',\n  description: 'Centre Dentaire ANOUAL — Dr. Ilias EL KHATTABI & Dr. Lamyae BOUHI à Kénitra.',\n}\n\nexport default function RootLayout({children}:{children:React.ReactNode}){return <html lang=\"fr\"><body>{children}</body></html>}\n"],"names":["metadata","title","description","RootLayout","children","lang"],"mappings":";;;;;;;;;AAGO,MAAMA,WAAqB;IAChCC,OAAO;IACPC,aAAa;AACf;AAEe,SAASC,WAAW,EAACC,QAAQ,EAA4B;IAAE,qBAAO,oOAAC;QAAKC,MAAK;kBAAK,cAAA,oOAAC;sBAAMD;;;AAAuB"}}]
-}
